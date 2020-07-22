@@ -14,3 +14,13 @@ The dashboard is built in R language using the shiny and flexdashboard package t
   * Interesante, no lo creen?
 
 </details>
+
+
+#### Que tal una tabla?
+
+
+Tarea | Objetivo
+----- | --------
+Construir un dashboard dinamico | Presentar la información de mejor manera
+Preferiblemente que el dashboard cargue rapido | Evitar tiempos de espera muy largos
+
