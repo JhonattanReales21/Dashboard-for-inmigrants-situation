@@ -6,7 +6,11 @@ The dashboard is built in R language using the shiny and flexdashboard package t
 
 
 
-<detail>
-<summary>Resumen</summary>
+<details>
+  <summary>Resumen</summary>
 
-</detail>
+  ### Este es un ejemplo de un bloque
+  
+  * Interesante, no lo creen?
+
+</details>
